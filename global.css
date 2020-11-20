@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@900&display=swap');
+*{
+  font-family: 'Noto Sans KR', sans-serif;
+}
+body{
+  color:blue;
+  background: rgb(88, 88, 88);
+}
+#space{
+  color:red;
+}
+#griffin_v{
+  text-indent: 30%;
+}
+table, th, td {
+  border: 1px solid black;
+  background: brown;
+}
+footer{
+  font-family: sans-serif;
+  color:whitesmoke;
+}
+#Tydos{
+  color:aquamarine;
+}
+body {
+ background:#3D4849;
+
+}
+
+div{
+  color:chocolate;
+}
+h4{
+  color:brown;
+}
+#static{
+  color:blue;
+}
