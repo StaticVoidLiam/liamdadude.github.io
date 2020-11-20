@@ -2,7 +2,10 @@
 
 *{
   font-family: 'Noto Sans KR', sans-serif;
-   background-color:darkblue;
+   
   color:yellow;
+}
+body{
+  background-color:darkblue;
 }
 
